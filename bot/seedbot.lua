@@ -323,7 +323,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-@AVENGERRS Commands list :
+Commands list :
  
 1-banhammer list ^
  
@@ -476,14 +476,12 @@ you can use both "/" and "!"
 شما میتوانید از ! و / استفاده کنید
 
 Developer: @RM13790115
-توسعه دهنده
-اگه هم ریپورتی از طریق بات بچت
-@RM13790115bot
+ادمین ربات
 
-channel: @AVENGERRSS
+channel: @kingantispam
 کانال ما
 
-G00D LUCK ^_^
+
 ]]
   }
   serialize_to_file(config, './data/config.lua')
