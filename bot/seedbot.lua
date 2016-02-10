@@ -469,7 +469,7 @@ Commands list :
 !share
 دریافت شماره ربات
 
-!join 103661224
+!join
 وصل شدن به ساپورت
 
 you can use both "/" and "!" 
